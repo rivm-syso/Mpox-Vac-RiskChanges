@@ -1,0 +1,13 @@
+upMin	upMax	nameLong
+4	21	Infectious period with symptoms, period 1
+2	14	Infectious period with symptoms, period 2
+2	7	Infectious period with symptoms, period 3
+0.3	0.7	Beta
+0.5	0.9	Epsilon casual partners
+0.5	0.9	Epsilon steady partners
+0.1	0.9	Ratio infectivity asymptom/symptom (w)
+0.3	0.6	Frequency CAI, high activity group (aC3)
+52	60	Day 1st behavioural adaptations (T1)
+70	80	Day 2nd behavioural adaptations (T2)
+0	0.5	Reduction casual partners, D1
+0	0.5	Reduction casual partners, D2
